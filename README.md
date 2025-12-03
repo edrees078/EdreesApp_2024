@@ -118,7 +118,7 @@ All screenshots are stored in the `images/` folder in this repository.
 
 ## How to Run
 
-1. Install **.NET 10* SDK** and **Visual Studio 2022** with the  
+1. Install **.NET 10 SDK** and **Visual Studio 2022** with the  
    **“.NET Multi-platform App UI development”** workload.
 
 2. Clone this repository:
