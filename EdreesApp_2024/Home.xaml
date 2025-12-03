@@ -25,7 +25,7 @@
 			</Frame>
 			<Frame CornerRadius="10" Padding="6" Margin="0,0,0,0" HasShadow="True" BorderColor="#100F10">
 
-				<Label Text="Ödev-3"
+				<Label Text="Görsel Programlama Dersi"
                    FontSize="20"
                    TextColor="#100F10"
                     HorizontalOptions="Center"
