@@ -1,1 +1,1 @@
-# EdreesApp_2024
+# EdreesApp_2024 MAUI .NET Application
